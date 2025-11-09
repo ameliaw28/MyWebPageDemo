@@ -1,0 +1,8 @@
+---
+title: "Projects"
+format: html
+---
+
+I have no personal projects to present at the moment.
+
+![](images/IMG_2129.jpeg){fig-align="center"}

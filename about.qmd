@@ -1,9 +1,11 @@
 ---
-title: "About"
+title: "Bio"
 ---
 
-About this site
+Amelia Wands is a second-year student from Buffalo, New York, enrolled at Baldwin Wallace University. She is double majoring in Data Science and Finance, with a minor in Statistics, and is also in the Honors Program.
 
-```{r}
-1 + 1
-```
+Wands is a tutor for the Center for Academic Success and Achievement. She is also an athlete on Baldwin Wallace's swimming and diving team.
+
+In her free time, Wands enjoys reading, watching movies, and hanging out with family and friends.
+
+![](images/IMG_2892.jpeg){fig-align="center"}

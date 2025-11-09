@@ -3,18 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "MyWebPageDemo"
+  title: "Amelia Wands Portfolio"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: Projects.qmd
+        text: Projects
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: flatly
+      dark: superhero
     css: styles.css
     toc: true
 

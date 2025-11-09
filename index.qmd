@@ -1,11 +1,5 @@
 ---
-title: "MyWebPageDemo"
+title: "Welcome to my portfolio website!"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+![](images/IMG_2130.jpeg){fig-align="center"}

@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "MyWebPageDemo",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Bio",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Amelia Wands is a second-year student from Buffalo, New York, enrolled at Baldwin Wallace University. She is double majoring in Data Science and Finance, with a minor in Statistics, and is also in the Honors Program.\nWands is a tutor for the Center for Academic Success and Achievement. She is also an athlete on Baldwin Wallace’s swimming and diving team.\nIn her free time, Wands enjoys reading, watching movies, and hanging out with family and friends."
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "I have no personal projects to present at the moment."
   }
 ]
